@@ -1,7 +1,3 @@
-# 💫 About Me:
-Engineering student specializing in Data Science, Machine Learning, and Generative AI. 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vedant-sonawane-835802245/) 
 
